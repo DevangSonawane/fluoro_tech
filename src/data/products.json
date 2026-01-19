@@ -1,0 +1,128 @@
+[
+  {
+    "id": "halar-ectfe",
+    "name": "Halar ECTFE",
+    "description": "Halar ECTFE (Ethylene-chlorotrifluoroethylene) is an alternated copolymer of ethylene and chlorotrifluoroethylene. It offers a unique combination of properties including excellent chemical resistance, good electrical properties, and a broad use temperature range.",
+    "features": [
+      "Excellent chemical resistance",
+      "Superior surface smoothness",
+      "High impact strength",
+      "Excellent weatherability"
+    ],
+    "applications": [
+      "Chemical storage tanks",
+      "Semiconductor process equipment",
+      "Cleanroom exhaust systems",
+      "Protective linings"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Industrial%20chemical%20storage%20tanks%20with%20smooth%20protective%20coating%2C%20clean%20factory%20environment%2C%20high%20resolution&image_size=landscape_16_9"
+  },
+  {
+    "id": "antistatic-halar",
+    "name": "Antistatic Halar",
+    "description": "Antistatic Halar ECTFE is a specialized grade designed to prevent static buildup while maintaining the exceptional chemical and mechanical properties of standard Halar. It is an alternated copolymer of ethylene and chlorotrifluoroethylene.",
+    "features": [
+      "Static dissipative properties",
+      "Chemical resistance of Halar",
+      "Explosion prevention in hazardous areas",
+      "Durable surface finish"
+    ],
+    "applications": [
+      "Solvent handling equipment",
+      "Flammable liquid storage",
+      "Powder coating systems",
+      "Electronic component handling"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Antistatic%20industrial%20coating%20application%20in%20hazardous%20area%2C%20safety%20equipment%2C%20technical%20visualization&image_size=landscape_16_9"
+  },
+  {
+    "id": "ptfe",
+    "name": "PTFE",
+    "description": "Products made with DuPont™ Teflon® PTFE (polytetrafluoroethylene) fluoropolymer resins have exceptional resistance to high temperatures, chemical reaction, corrosion, and stress-cracking.",
+    "features": [
+      "Lowest coefficient of friction",
+      "Extreme chemical inertness",
+      "High temperature resistance (up to 260°C)",
+      "Excellent non-stick properties"
+    ],
+    "applications": [
+      "Non-stick cookware",
+      "Chemical valve linings",
+      "High-performance seals",
+      "Electrical insulation"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Close%20up%20of%20PTFE%20coated%20industrial%20valves%20and%20seals%2C%20white%20clean%20material%2C%20engineering%20focus&image_size=landscape_16_9"
+  },
+  {
+    "id": "tefzel-etfe",
+    "name": "Tefzel (ETFE)",
+    "description": "DuPont™ Tefzel® is a modified ETFE (ethylene-tetrafluoroethylene) fluoropolymer. Tefzel combines superior mechanical toughness with outstanding chemical inertness and near-universal chemical resistance.",
+    "features": [
+      "Superior mechanical toughness",
+      "High abrasion resistance",
+      "Radiation resistance",
+      "Excellent dielectric properties"
+    ],
+    "applications": [
+      "Wire and cable insulation",
+      "Nuclear industry components",
+      "Chemical processing pumps",
+      "Architectural structures"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Industrial%20cables%20and%20wires%20with%20tough%20ETFE%20insulation%2C%20high%20tech%20manufacturing%20background&image_size=landscape_16_9"
+  },
+  {
+    "id": "teflon-pfa",
+    "name": "Teflon PFA",
+    "description": "Teflon™ PFA (perfluoroalkoxy) offers the processing ease of conventional thermoplastics with properties similar to PTFE. It is ideal for pharmaceutical and biopharmaceutical facilities that require flexibility to produce multiple products.",
+    "features": [
+      "Melt-processable fluoropolymer",
+      "High purity levels",
+      "Excellent flex life",
+      "Universal chemical resistance"
+    ],
+    "applications": [
+      "Pharmaceutical vessels",
+      "Semiconductor fluid handling",
+      "High-purity chemical storage",
+      "Heat exchangers"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Pharmaceutical%20stainless%20steel%20vessels%20in%20clean%20room%2C%20high%20purity%20processing%2C%20sterile%20environment&image_size=landscape_16_9"
+  },
+  {
+    "id": "pvdf",
+    "name": "PVDF",
+    "description": "Polyvinylidene Fluoride (PVDF) is a high-purity thermoplastic fluoropolymer with exceptional resistance to solvents, acids, and bases. It is known for its high mechanical strength and abrasion resistance.",
+    "features": [
+      "High mechanical strength",
+      "Excellent abrasion resistance",
+      "UV and radiation stability",
+      "High dielectric strength"
+    ],
+    "applications": [
+      "High-purity water systems",
+      "Chemical piping",
+      "Battery components",
+      "Architectural coatings"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=PVDF%20piping%20systems%20for%20water%20treatment%2C%20industrial%20complex%2C%20blue%20sky%20background&image_size=landscape_16_9"
+  },
+  {
+    "id": "fluon-etfe",
+    "name": "Fluon ETFE",
+    "description": "Products made with Fluon® ETFE fluoropolymer resins have exceptional resistance to heat and chemicals, along with superior electrical insulation properties. It is a tough, durable material suitable for demanding environments.",
+    "features": [
+      "High heat resistance",
+      "Superior electrical insulation",
+      "Excellent weatherability",
+      "Non-stick surface"
+    ],
+    "applications": [
+      "Greenhouse films",
+      "Solar cell protection",
+      "Wire coatings",
+      "Chemical linings"
+    ],
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Architectural%20ETFE%20film%20structure%20modern%20stadium%20roof%20or%20greenhouse%2C%20sunlight%2C%20futuristic&image_size=landscape_16_9"
+  }
+]

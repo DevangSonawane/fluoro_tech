@@ -1,0 +1,2417 @@
+[
+  {
+    "chemical": "Acetaldehyde",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Acetamide",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Acetic Acid (50%)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Acetic Acid (Glacial)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Acetic Anhydride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Acetone",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "2O)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Acetonitrile",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Acetophenone",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Acetylchloride",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Acetylene",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Acetylene Tetrabromide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Acetylene Tetrachloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Acrylonitrile",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Adipic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Air",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Allyl Alcohol",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Allyl Chloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Aluminum Ammonium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aluminum Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aluminum Fluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aluminum Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aluminum Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aluminum Oxychloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aluminum Potassium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "2O)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Ammonia (Anhydrous)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonia (Aqueous 30%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Ammonium Bifluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Bromide (50%)",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Ammonium Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Dichromate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Ammonium Fluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Nitrate (Conc.)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Ammonium Perchlorate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Ammonium Persulfate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Ammonium Phosphate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Sulfide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ammonium Thiocyanate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Amyl Acetate",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Amyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Amyl Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Aniline",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Aniline Hydrochloride (10%)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Anthraquinone",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Anthraquinone-Sulfonic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Antimony Trichloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Aqua Regia",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Arsenic Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Barium Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Barium Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Barium Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Barium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Barium Sulfide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Battery Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Benzaldehyde",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Benzene",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Benzene Sulfonic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Benzoic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Benzoyl Chloride",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Benzyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Benzyl Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Bismuth Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Black Liquor",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "2)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Borax",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Boric Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Brine",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Bromic Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Bromine (Dry)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Bromine Water (10%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "mono-Bromobenzene",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Bromoform",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "m-Bromotoluene",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Butadiene",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Butane",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Butanediol",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Butyl Acetate",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Butyl Acrylate",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "n-Butyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "sec-Butyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "tert-Butyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "n-Butylamine",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "sec-Butylamine",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "tert-Butylamine",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "n-Butyl Amine",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "tri-n-Butyl Amine",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Butylene",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Butyl Bromide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Butyl Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "n-Butyl Mercaptan",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Butyl Phenol",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Butyl Phthalate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Butyraldehyde",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Butyric Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Calcium Bisulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Bisulfide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Chlorate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Hypochlorite",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Oxide",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Calcium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Calcium Sulfide",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Caprylic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Carbon Dioxide (Dry)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Carbon Dioxide (Wet)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Carbon Disulfide",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Carbon Monoxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Carbon Tetrachloride",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Carbonic Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Castor Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Caustic Potash (10 and 50%)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Caustic Soda (10 and 50%)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chloral Hydrate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chlorinated Brine",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Chlorinated Phenol",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chlorine (Dry)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chlorine (Wet)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Chlorine Dioxide",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "2O)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Chlorobenzene",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chlorobenzyl Chloride",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Chloroform",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chlorohydrin (Liquid)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Chlorosulphonic Acid",
+    "max_temp_f": "75",
+    "max_temp_c": "25"
+  },
+  {
+    "chemical": "Chromic Acid (50%)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Chromic Chloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Chromyl Chloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "2)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Coal Gas",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Copper Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Copper Cyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Copper Fluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Copper Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Copper Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Cresol",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Cresylic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Crotonaldehyde",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Crude Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Cyclohexane",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Cyclohexanol",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Cyclohexanone",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "DDT",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Decalin",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Decane",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Dextrin",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Diacetone Alcohol",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "1,2-Dibromopropane",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Dibutyl Phthalate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Dichloroacetic Acid",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "o-Dichlorobenzene",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Dichloroethylene",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Dichloropropionic Acid",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Diesel Fuels",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Diethyl Benzene",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Diethyl Cellosolve",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Diethyl Ether",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Diethylamine",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Diethylene Triamine",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Diglycolic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Diisobutyl Ketone",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Diisobutylene",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Dimethyl Formamide",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Dimethyl Phthalate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Dimethyl Sulfate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Dimethyl Sulfoxide",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Dimethylamine",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Dimethylaniline",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Dioctyl Phthalate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "p-Dioxane",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Diphenyl Ether",
+    "max_temp_f": "175",
+    "max_temp_c": "80"
+  },
+  {
+    "chemical": "Divinyl Benzene",
+    "max_temp_f": "175",
+    "max_temp_c": "80"
+  },
+  {
+    "chemical": "Epichlorhydrin",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Ethyl Acetate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Ethyl Acrylate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Ethyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ethyl Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ethyl Chloroacetate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Ethyl Cyanoacetate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Ethylacetoacetate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Ethylamine",
+    "max_temp_f": "100",
+    "max_temp_c": "40"
+  },
+  {
+    "chemical": "Ethylene Bromide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ethylene Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ethylene Chlorohydrin",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Ethylene Diamine",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Ethylene Glycol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ethylene Oxide",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Fatty Acids",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "2O)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferric Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferric Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferric Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferrous Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferrous Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferrous Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ferrous Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Fluorine (Gaseous)",
+    "max_temp_f": "100",
+    "max_temp_c": "40"
+  },
+  {
+    "chemical": "Fluoroboric Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Fluosilicic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "2O)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Formic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "FREON\uf8e8 11",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "FREON\uf8e8 12",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "FREON\uf8e8 22",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Fuel Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Fumaric Acid",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Furane",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Furfural",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Gallic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Gas\u2014Manufactured",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Gas\u2014Natural",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Gasoline\u2014Leaded",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Gasoline\u2014Sour",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Gasoline\u2014Unleaded",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Glycerol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Glycol",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Glycolic Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Heptane",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hexane",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrazine",
+    "max_temp_f": "100",
+    "max_temp_c": "40"
+  },
+  {
+    "chemical": "Hydrazine Dihydrochloride",
+    "max_temp_f": "125",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Hydriodic Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrobromic Acid (50%)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrochloric Acid (20%)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrochloric Acid (Conc.)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrochloric Acid (Gas)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrocyanic Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrofluoric Acid (35%)",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Hydrofluoric Acid (70%)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Hydrofluoric Acid (100%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Hydrofluorosilicic Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrogen",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrogen Cyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrogen Peroxide (30%)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Hydrogen Peroxide (90%)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Hydrogen Phosphide",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Hydrogen Sulfide (Dry)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydrogen Sulfide (Wet)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Hydroquinone",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Hypochlorous Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Inert Gases",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Iodine (Dry)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Iodine (Wet)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Iodoform",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Isobutyl Alcohol",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Isopropylamine",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Jet Fuel\u2014JP4",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Jet Fuel\u2014JP5",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Lactic Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Lard Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Lauric Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Lauryl Chloride",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Lauryl Sulfate",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Lead Acetate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Linoleic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Linseed Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Lithium Bromide (Saturated)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Lithium Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Lubricating Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Magnesium Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Magnesium Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Magnesium Hydroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Magnesium Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Magnesium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Maleic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Maleic Anhydride",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Malic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Mercuric Chloride",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Mercuric Cyanide",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Mercuric Nitrate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Mercury",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Methacrylic Acid",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Methane",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Methane Sulfonic Acid (50%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Methyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "n-Methylaniline",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Methyl Benzoate",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Methyl Bromide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Methyl Chloride",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Methyl Chloroform",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Methyl Chloromethyl Ether",
+    "max_temp_f": "175",
+    "max_temp_c": "80"
+  },
+  {
+    "chemical": "Methyl Cyanoacetate",
+    "max_temp_f": "175",
+    "max_temp_c": "80"
+  },
+  {
+    "chemical": "Methyl Ethyl Ketone",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Methyl Isobutyl Ketone",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Methyl Methacrylate",
+    "max_temp_f": "175",
+    "max_temp_c": "80"
+  },
+  {
+    "chemical": "Methyl Salicylate",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Methyl Sulfuric Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Methyl Trichlorosilane",
+    "max_temp_f": "200",
+    "max_temp_c": "95"
+  },
+  {
+    "chemical": "Methylene Bromide",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Methylene Chloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Methylene Iodide",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Mineral Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Monochlorobenzene",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Monoethanolamine",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Morpholine",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Naphtha",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Naphthalene",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Nickel Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Nickel Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Nickel Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Nicotine",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Nicotinic Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Nitric Acid (50%)",
+    "max_temp_f": "221",
+    "max_temp_c": "105"
+  },
+  {
+    "chemical": "Nitric Acid (Conc. 70%)",
+    "max_temp_f": "248",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Nitric Acid\u2014Sulfuric Acid (50/50)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Nitrobenzene",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Nitrogen Dioxide",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Nitrogen Gas",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Nitromethane",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Nitrous Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Octane",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Octene",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Oleic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Oleum",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Oxalic Acid",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Oxygen",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Ozone (<1% in Air)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Palmitic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Perchlorethylene",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Perchloric Acid (10%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Perchloric Acid (72%)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Petrolatum",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Silicon Tetrachloride",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Silver Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Silver Cyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Silver Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Acetate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Benzene-Sulfonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Benzoate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Bicarbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Bisulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Bisulfite",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Borate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Sodium Bromide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Chlorate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Chromate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Cyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Dichromate (Alkaline)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Sodium Ferricyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Ferrocyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Fluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Glutamate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Sodium Hydroxide (10%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Sodium Hydroxide (50%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Sodium Hypochlorite",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Hyposulfite",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Iodide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Lignosulfonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Metasilicate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Nitrite",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Perborate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Sodium Perchlorate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Sodium Peroxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Persulfate",
+    "max_temp_f": "175",
+    "max_temp_c": "80"
+  },
+  {
+    "chemical": "Sodium Phosphate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Silicate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Silicofluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Sulfide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Sulfite",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sodium Thiosulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sorbic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Sour Crude Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Stannic Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Stannous Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Stannous Fluoride",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Stearic Acid",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Stoddard\u2019s Solvent",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Styrene Monomer",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Succinic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Sulfamic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Sulfur (Molten)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Sulfur Dioxide",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Sulfur Trioxide (Liquid)",
+    "max_temp_f": "75",
+    "max_temp_c": "25"
+  },
+  {
+    "chemical": "Sulfuric Acid (60%)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Petroleum",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Petroleum Ether",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phenol (10%)",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Phenol (100%)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phenolsulfonic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phenylhydrazine",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phenylhydrazine Hydrochloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "o-Phenylphenol",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phosgene",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phosphoric Acid (30%)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Phosphoric Acid (85%)",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Phosphorus Oxychloride",
+    "max_temp_f": "221",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phosphorus Pentachloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phosphorus Pentoxide",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Phosphorus Trichloride",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Phthalic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Phthalic Anhydride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Picric Acid",
+    "max_temp_f": "125",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Polyvinyl Acetate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Polyvinyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Aluminum Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Aluminum Sulfate (50%)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Bicarbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Borate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Bromate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Bromide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Carbonate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Chlorate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Chromate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Cyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Dichromate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Ferrocyanide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Fluoride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Hydroxide (50%)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Potassium Hypochlorite",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Potassium Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Perborate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Potassium Perchlorate",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Potassium Permanganate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Persulfate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Potassium Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Potassium Sulfide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Propane",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Propionic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Propyl Alcohol",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Propylene Dibromide",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Propylene Dichloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Propylene Glycol Methyl Ether",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Propylene Oxide",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Pyridine",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Pyrogallol",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Salicylaldehyde",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Salicylic Acid",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Salt Brine",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sea Water",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sulfuric Acid (Conc.)",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Sulfuric Acid (Fuming\u2014Oleum)",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "Sulfurous Acid",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Tall Oil",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Tannic Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Tartaric Acid",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "2,3,4,6-Tetrachlorophenol",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Tetraethyl Lead",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Tetrahydrofuran",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Hydroxide (50%)",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Thionyl Chloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Tin Tetrachloride",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Titanium Dioxide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Titanium Tetrachloride",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Toluene",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Tributyl Phosphate",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Trichloracetic Acid",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Trichloroethylene",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Trichloromethane",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "2,4,5-Trichlorophenol",
+    "max_temp_f": "212",
+    "max_temp_c": "100"
+  },
+  {
+    "chemical": "Triethylamine",
+    "max_temp_f": "230",
+    "max_temp_c": "110"
+  },
+  {
+    "chemical": "Trisodium Phosphate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Turpentine",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "UDMH-Hydrazine (50/50)",
+    "max_temp_f": "120",
+    "max_temp_c": "50"
+  },
+  {
+    "chemical": "2O)",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Varsol",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Vinyl Acetate",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Vinyl Chloride (Monomer)",
+    "max_temp_f": "150",
+    "max_temp_c": "65"
+  },
+  {
+    "chemical": "Water",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Water Sewage",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Wax",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Xylene",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Zinc Acetate",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Zinc Chloride",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Zinc Hydrosulfite (10%)",
+    "max_temp_f": "250",
+    "max_temp_c": "120"
+  },
+  {
+    "chemical": "Zinc Nitrate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Zinc Sulfate",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Zinc Sulfide",
+    "max_temp_f": "300",
+    "max_temp_c": "150"
+  },
+  {
+    "chemical": "Brass",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Cadmium",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Chrome",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Copper",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  },
+  {
+    "chemical": "Gold",
+    "max_temp_f": "275",
+    "max_temp_c": "135"
+  }
+]
