@@ -3,6 +3,7 @@ import { Mail, Phone, MapPin, Send } from 'lucide-react';
 import { FadeIn } from '../components/animations/FadeIn';
 import { SlideUp } from '../components/animations/SlideUp';
 import Button from '../components/ui/Button';
+import GradientText from '../components/ui/GradientText';
 
 const Contact = () => {
   return (
@@ -16,11 +17,14 @@ const Contact = () => {
             className="w-full h-full object-cover opacity-20"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/50 to-transparent"></div>
+          <div className="absolute top-0 left-0 w-full h-full opacity-20 bg-[radial-gradient(#3b82f6_1px,transparent_1px)] [background-size:20px_20px]" />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <FadeIn>
-            <h1 className="text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl tracking-tight">
-              Get in Touch
+            <h1 className="text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl tracking-tight font-display">
+              <GradientText colors={["#FFFFFF", "#93c5fd", "#3b82f6", "#FFFFFF"]}>
+                Get in Touch
+              </GradientText>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl text-slate-300">
               Have a question about our coatings? Need a quote? We're here to help.
@@ -32,8 +36,8 @@ const Contact = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 -mt-10 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           {/* Contact Information */}
-          <SlideUp className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-10 h-full">
-            <h2 className="text-3xl font-bold text-slate-900 mb-8">Contact Information</h2>
+          <SlideUp className="glass-panel rounded-3xl p-8 md:p-10 h-full">
+            <h2 className="text-3xl font-bold text-slate-900 mb-8 font-display">Contact Information</h2>
             
             <div className="space-y-10">
               <div className="flex items-start group">

@@ -12,6 +12,7 @@ import { SmoothScroll } from './components/SmoothScroll';
 import PageTransition from './components/PageTransition';
 import Preloader from './components/Preloader';
 import NoiseOverlay from './components/ui/NoiseOverlay';
+import ScrollToTop from './components/ScrollToTop';
 
 const AnimatedRoutes = () => {
   const location = useLocation();
@@ -33,6 +34,7 @@ const AnimatedRoutes = () => {
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <NoiseOverlay />
       <Preloader />
       <SmoothScroll>

@@ -4,6 +4,8 @@ import { Linkedin, Award, History, Target } from 'lucide-react';
 import { FadeIn } from '../components/animations/FadeIn';
 import { SlideUp } from '../components/animations/SlideUp';
 import Button from '../components/ui/Button';
+import SpotlightCard from '../components/ui/SpotlightCard';
+import GradientText from '../components/ui/GradientText';
 
 const About = () => {
   return (
@@ -13,11 +15,14 @@ const About = () => {
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')] bg-cover bg-center opacity-10"></div>
           <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/50 to-transparent"></div>
+          <div className="absolute top-0 left-0 w-full h-full opacity-20 bg-[radial-gradient(#3b82f6_1px,transparent_1px)] [background-size:20px_20px]" />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <FadeIn>
-            <h1 className="text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl tracking-tight">
-              About Fluoro Tech
+            <h1 className="text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl tracking-tight font-display">
+              <GradientText colors={["#FFFFFF", "#93c5fd", "#3b82f6", "#FFFFFF"]}>
+                About Fluoro Tech
+              </GradientText>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl text-slate-300">
               Pioneering excellence in industrial coating solutions since 2001.
@@ -29,7 +34,7 @@ const About = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         {/* Leadership Section */}
         <div className="mb-24">
-          <SlideUp className="bg-white rounded-3xl shadow-xl overflow-hidden border border-slate-100">
+          <SlideUp className="glass-panel rounded-3xl overflow-hidden">
             <div className="grid grid-cols-1 lg:grid-cols-2">
               <div className="relative h-96 lg:h-auto">
                 <img 
