@@ -1,0 +1,7569 @@
+{
+  "chemicals": [
+    {
+      "name": "ACETAMIDE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 340",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ACETATE SOLVENT",
+      "ratings": [
+        "CR",
+        "A to 300",
+        "A to 200",
+        "A boiling ",
+        "A to 200",
+        "A to 100",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ACETATE SOLVENT PURE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 200",
+        "A to 100",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ACETALDEHYDE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 300",
+        "A to 200",
+        "A to 100",
+        "A to 122"
+      ]
+    },
+    {
+      "name": "ACETIC",
+      "ratings": [
+        "AC",
+        "A boiling ",
+        "A ",
+        "A boiling ",
+        "A to 244",
+        "A 100% "
+      ]
+    },
+    {
+      "name": "ACETIC",
+      "ratings": [
+        "AC",
+        "A",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 122"
+      ]
+    },
+    {
+      "name": "ACETIC",
+      "ratings": [
+        "AC",
+        "AC",
+        "A",
+        "A boiling ",
+        "A boiling ",
+        "A boiling ",
+        "A to 244",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ACETIC",
+      "ratings": [
+        "AN",
+        "R",
+        "A to 300",
+        "A boiling ",
+        "A to 300",
+        "A to 282",
+        "A to 200",
+        "A boiling"
+      ]
+    },
+    {
+      "name": "ACETONE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "AB to 200",
+        "A to 200",
+        "A to 70",
+        "AC"
+      ]
+    },
+    {
+      "name": "ACETONITRILE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ACETOPHENONE",
+      "ratings": [
+        "A to 395",
+        "A to 395",
+        "A ",
+        "AB to 360",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ACETYLENE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 250",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ACETYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "*A to 200",
+        "A to 300",
+        "A to 200",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ACID MINE WATER",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 212",
+        "A to 250",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ACRYLONITRILE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 150",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ADIPIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 175",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ALCOHOLS GENERAL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 208",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ALCOHOL",
+      "ratings": [
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ALCOHOL",
+      "ratings": [
+        "B",
+        "B",
+        "AN",
+        "A to 200",
+        "A to  200\u00b0F",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ALCOHOL ETHYL (ETHANOL)",
+      "ratings": [
+        "A to 392",
+        "A to 392",
+        "A to 392",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "ALCOHOL 2",
+      "ratings": [
+        "A",
+        "N",
+        "AN",
+        "A to 300",
+        "A to 200",
+        "A to 180",
+        "A to 200",
+        "NR ",
+        "NR at 70"
+      ]
+    },
+    {
+      "name": "ALLYL",
+      "ratings": [
+        "A",
+        "C",
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "ALLYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ALUMINIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to  300\u00b0F",
+        "A to boiling ",
+        "A to 400",
+        "A 25% ",
+        "A  ",
+        "A to 25% "
+      ]
+    },
+    {
+      "name": "ALUMINIUM",
+      "ratings": [
+        "C",
+        "R",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "ALUMINIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to boiling ",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ALUMINIUM FLOURIDE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ALUMINIUM HYDROXIDE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "*A to 70"
+      ]
+    },
+    {
+      "name": "ALUMINIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ALUMINIUM POTASSIUM SULPHATE (ALUM)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ALUMINIUM SULPHATE 100%",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 400",
+        "A to 120",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ALUMINIUM SULPHATE 10%",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 400",
+        "A to 120",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ALUMINIUM SULPHATE <10%",
+      "ratings": [
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A ",
+        "###",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "ALUMINIUM SULPHATE >10%",
+      "ratings": [
+        "B",
+        "N",
+        "A  ",
+        "*A  ",
+        "A ",
+        "###",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "ALUMINIUM",
+      "ratings": [
+        "C",
+        "R",
+        "R",
+        "*A to 70",
+        "*A to 200",
+        "A to 200",
+        "*A to 70",
+        "###",
+        "*A to 70"
+      ]
+    },
+    {
+      "name": "AMINES",
+      "ratings": [
+        "A to 200",
+        "A to boiling ",
+        "A to 300",
+        "A to 300",
+        "A/NR at 70"
+      ]
+    },
+    {
+      "name": "AMMONIA 100%",
+      "ratings": [
+        "AN",
+        "R",
+        "A to 200",
+        "A to ",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "AMMONIA",
+      "ratings": [
+        "A",
+        "A to 300",
+        "A  ",
+        "A to 300",
+        "A to 230",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "B",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "CARB",
+        "NA",
+        "A to 300",
+        "A to  200\u00b0F",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "RA",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "A 25% to 250\u00b0F",
+      "ratings": [
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A 25% ",
+        "C to 70"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 250",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 250",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "C",
+        "R",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "C",
+        "R",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "AMMONIUM FLOURIDE",
+      "ratings": [
+        "A 25% ",
+        "A 5% ",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "AMMONIUM HYDROXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 282",
+        "A boiling ",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "AMMONIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A to 484",
+        "A to 230",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "AMMONIUM PERSULFATE",
+      "ratings": [
+        "A 25% ",
+        "*A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "AMMONIUM PHOSPHATE DIBASIC",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "AMMONIUM SULFATE SATURATED",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "AMMONIUM SULFATE 10%",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "AMMONIUM SULFATE 10%",
+      "ratings": [
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A ",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "A to 150\u00b0F",
+      "ratings": [
+        "*A to 200",
+        "A to 300",
+        "NR boiling ",
+        "###",
+        "A boiling"
+      ]
+    },
+    {
+      "name": "AMYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "AMYL",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 250",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ANILINE",
+      "ratings": [
+        "A to 365",
+        "A to 365",
+        "A to 365",
+        "A to 365",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ANILINE HYDROCHLORIDE",
+      "ratings": [
+        "A to 212",
+        "*A to 200",
+        "A to 400",
+        "A 10%150\u00b0F",
+        "NR hot ",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ANTIMONY TRICHLORIDE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "AROCLOR",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 300",
+        "*A to 200",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "AQUA",
+      "ratings": [
+        "R",
+        "A ",
+        "A to 248",
+        "A to 248",
+        "A to 400",
+        "A to 212",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ARSDIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ASPHALT",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 212",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ASPHALT EMULSIONS",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 212",
+        "###",
+        "###",
+        "*A to 200"
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "CARB",
+        "NA",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "*A to 200"
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "RA",
+        "A to 200",
+        "A to  200\u00b0F",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "A  < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "C",
+        "AN",
+        "*A to 70",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "BARIUM HYDROXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BARIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BARIUM SULPHATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "BARIUM SULPHIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "BEER",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 212",
+        "###",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BEET SUGAR LIQUOR",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BENZALDIHYDE",
+      "ratings": [
+        "A to 355",
+        "A to 355",
+        "A to 355",
+        "A to 212",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BENZENE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 392",
+        "A to 212",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BENZENE HOT",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 392",
+        "A to 212",
+        "A to 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BENZENE SULFONIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "C/NR at 212"
+      ]
+    },
+    {
+      "name": "BENZOIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BENZONITRILE",
+      "ratings": [
+        "A to 300",
+        "A to  ",
+        "A to boiling ",
+        "A to 305",
+        "A to 200",
+        "A to 250"
+      ]
+    },
+    {
+      "name": "BENZYL",
+      "ratings": [
+        "A",
+        "C",
+        "A to 401",
+        "A to 401",
+        "A to 401",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BENZYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 387",
+        "A to 387",
+        "A to 387",
+        "A to 300",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "BLOOD",
+      "ratings": [
+        "*A to 70",
+        "*A to 200",
+        "A to 200",
+        "A to 70",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BORAX",
+      "ratings": [
+        "A to 300",
+        "A to 300",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "BORIC",
+      "ratings": [
+        "AC",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% "
+      ]
+    },
+    {
+      "name": "BORIC",
+      "ratings": [
+        "AC",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% "
+      ]
+    },
+    {
+      "name": "BROMINE DRY GAS",
+      "ratings": [
+        "A to 200",
+        "A to 138",
+        "A to 200",
+        "A to 205",
+        "NR ",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING.  < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "BUTADIENE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BUTANE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BUTTERMILK",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "*A to 200",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BUTYLENE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "*A to 70"
+      ]
+    },
+    {
+      "name": "BUTYNIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 250",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BUTYNIC",
+      "ratings": [
+        "AC",
+        "C",
+        "NC",
+        "N",
+        "RA",
+        "A to 200",
+        "A to  200\u00b0F",
+        "A to 300",
+        "A to 250",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "BUTYL",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 300",
+        "A to 240",
+        "A to 300",
+        "AB to 260",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "BUTYL",
+      "ratings": [
+        "A",
+        "N",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 120"
+      ]
+    },
+    {
+      "name": "BUTYL ETHER",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "BUTYL PHTHALATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 480",
+        "A to 150",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "BUTYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "*A to 200"
+      ]
+    },
+    {
+      "name": "CALCIUM",
+      "ratings": [
+        "B",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "CALCIUM",
+      "ratings": [
+        "CARB",
+        "NA",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "CALCIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "RA",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "CALCIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "CALCIUM HYDROXIDE 10%",
+      "ratings": [
+        "B",
+        "N",
+        "A to 300",
+        "A ",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "CALCIUM HYDROXIDE 20%",
+      "ratings": [
+        "B",
+        "N",
+        "A to 300",
+        "A ",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "CALCIUM HYDROXIDE 30%",
+      "ratings": [
+        "B",
+        "N",
+        "A conc. ",
+        "A ",
+        "A conc. ",
+        "A to 300",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "CALCIUM HYPOCHLORITE 100%",
+      "ratings": [
+        "A to 340",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CALCIUM HYDROCHLORITE 2%",
+      "ratings": [
+        "B",
+        "N",
+        "A to 304",
+        "A ",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A"
+      ]
+    },
+    {
+      "name": "CARBOLIC",
+      "ratings": [
+        "AC",
+        "N",
+        "A to  300\u00b0F",
+        "A to boiling ",
+        "A to 400",
+        "A to 212"
+      ]
+    },
+    {
+      "name": "A <10% SWELLING.  <15% LOSS OF TENSILE STRENGTH. LESS OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "CALCIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CALCIUM SULPHATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "CARBON DISULFIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A to 212"
+      ]
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CARBON TETRACHLORIDE WET",
+      "ratings": [
+        "A  ",
+        "A to 200",
+        "A to 392",
+        "A to 275",
+        "A to 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CARBON TETRACHLORIDE DRY",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 392",
+        "A to 275",
+        "A to 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CARBONIC",
+      "ratings": [
+        "AC",
+        "*A to 200",
+        "*A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "HYDROXIDE)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 125",
+        "A"
+      ]
+    },
+    {
+      "name": "CAUSTIC SODA ( SODIUM HYDROXIDE)",
+      "ratings": [
+        "A to  300\u00b0F",
+        "A to 50% ",
+        "A to 300",
+        "A to 125",
+        "A"
+      ]
+    },
+    {
+      "name": "175\u00b0FCELLOSOLVES",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "CHLORIC",
+      "ratings": [
+        "AC",
+        "A to 150",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CHLORINATED WATER",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 100",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "CHLORINE DRY",
+      "ratings": [
+        "A to 300",
+        "A to 248",
+        "A to 300",
+        "AB to 248",
+        "A to 200",
+        "NR at 78"
+      ]
+    },
+    {
+      "name": "CHLORINE WET",
+      "ratings": [
+        "A to 300",
+        "A to 248",
+        "A to 500",
+        "AB to 248",
+        "A to 200",
+        "B to 125"
+      ]
+    },
+    {
+      "name": "CHLORO",
+      "ratings": [
+        "AC",
+        "C ",
+        "AC",
+        "A to 200",
+        "A 50% ",
+        "A to 480",
+        "A to 125",
+        "A"
+      ]
+    },
+    {
+      "name": "CHLORO",
+      "ratings": [
+        "B",
+        "N",
+        "N",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "CHLORO ETHANOL",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to  300\u00b0F",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "CHLOROFORM",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "A to 200",
+        "AB to 70"
+      ]
+    },
+    {
+      "name": "CHLOROPHENOL",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "CHLOROSULFONIC",
+      "ratings": [
+        "AC",
+        "A to 304",
+        "A to 304",
+        "A to 400",
+        "A to 75",
+        "A"
+      ]
+    },
+    {
+      "name": "CHLOROSULFONIC",
+      "ratings": [
+        "AC",
+        "A to 304",
+        "A to 304",
+        "A to 400",
+        "A to 200",
+        "A to 200",
+        "A 5% "
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "A",
+        "C"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "CHROMIC",
+      "ratings": [
+        "AC",
+        "A ",
+        "A to 248",
+        "A  ",
+        "A to 125",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "CHROMIC",
+      "ratings": [
+        "AC",
+        "C",
+        "NC",
+        "N",
+        "RA",
+        "A 50 ",
+        "A to 248",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "CHROMIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "CHROMIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A to 50% ",
+        "A to 50% ",
+        "A ",
+        "B to 50% ",
+        "###",
+        "A to 50%"
+      ]
+    },
+    {
+      "name": "CITRIC",
+      "ratings": [
+        "AC",
+        "C",
+        "NC",
+        "N",
+        "RA",
+        "A ",
+        "A to 200",
+        "A to 400",
+        "###",
+        "A to 70",
+        "A to 125"
+      ]
+    },
+    {
+      "name": "CITRIC",
+      "ratings": [
+        "AC",
+        "A ",
+        "A to 200",
+        "A to 400",
+        "A to 125",
+        "A to 70",
+        "A 15% "
+      ]
+    },
+    {
+      "name": "COPPER",
+      "ratings": [
+        "C",
+        "N",
+        "A ",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "COPPER FLOURIDE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "COPPER",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "COPPER SULPHATE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to  300\u00b0F",
+        "A to 300",
+        "A to 70",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "COTTON SEED OIL",
+      "ratings": [
+        "A ",
+        "A to 200",
+        "A to 400",
+        "###",
+        "A to 70",
+        "*A to 200"
+      ]
+    },
+    {
+      "name": "CREOSOTE HOT ( WOOD &",
+      "ratings": [
+        "C",
+        "A",
+        "AR",
+        "A to 70",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "A to 70",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "M",
+      "ratings": [
+        "CR",
+        "CR",
+        "A to 378",
+        "A to 378",
+        "A to 400",
+        "A to 376",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "CRUDE OIL",
+      "ratings": [
+        "A ",
+        "A to 200",
+        "A to 400",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "CRESYLIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "A to 275",
+        "A 50% ",
+        "###"
+      ]
+    },
+    {
+      "name": "CRESYL DIPHENYL PHOSPHATE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "*A to 200",
+        "###",
+        "###",
+        "*A to 200"
+      ]
+    },
+    {
+      "name": "CUPRIC",
+      "ratings": [
+        "C",
+        "R",
+        "A ",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "CUPRIC",
+      "ratings": [
+        "C",
+        "R",
+        "A sat'd. ",
+        "A to 200",
+        "A sat'd. ",
+        "A sat'd. ",
+        "A sat'd. ",
+        "A sat'd. "
+      ]
+    },
+    {
+      "name": "CYANIC",
+      "ratings": [
+        "AC",
+        "*A to 200",
+        "###",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "CYCLOHEXANE",
+      "ratings": [
+        "A ",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CYCLOHEXANOL",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 250",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "CYCLOHEXANONE",
+      "ratings": [
+        "A to 312",
+        "A to 312",
+        "A to 400",
+        "A to 312",
+        "A to 300",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "DETERGENTS GENERAL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "DIACETONE",
+      "ratings": [
+        "A",
+        "C",
+        "AC",
+        "A to 200",
+        "A  ",
+        "A to 200",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "DIBUTYL PHTHALATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 150",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "DICHLOROBENZENE",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 300",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "DICHLOROETHANE",
+      "ratings": [
+        "*A to 70",
+        "*A to 200",
+        "A to boiling ",
+        "*A to 70",
+        "###",
+        "A to 122"
+      ]
+    },
+    {
+      "name": "DICHLORICFLUORO METHANE",
+      "ratings": [
+        "A to 70",
+        "A to 200",
+        "A to 200",
+        "A to 230",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "DICHLOROETHYLENE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 170",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "DIESEL FUEL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to  400\u00b0F",
+        "A to 300",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "DIETHANOLAMINE",
+      "ratings": [
+        "*A to 70",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "DIETHYLAMINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 230",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "DIETHYLENE GLYCOL",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 300",
+        "A to 125",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "DIETHYL ETHER",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 212",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "DIISOBUTYLENE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 275",
+        "###",
+        "*A to 70"
+      ]
+    },
+    {
+      "name": "DIMETHYL",
+      "ratings": [
+        "AN",
+        "N",
+        "A to 300",
+        "A to 200",
+        "A to 200",
+        "AB to 300",
+        "A to 200",
+        "A to 204"
+      ]
+    },
+    {
+      "name": "DIMETHYL FORMAMIDE",
+      "ratings": [
+        "A to 309",
+        "A to 309",
+        "A to 309",
+        "A to 275"
+      ]
+    },
+    {
+      "name": "DIMETHYL PHTHALATE",
+      "ratings": [
+        "A to 392",
+        "A to 392",
+        "A to 400",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "DIMETHYL SULFOXIDE",
+      "ratings": [
+        "A to 372",
+        "A to 372",
+        "A  ",
+        "A to 212",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "DIPHENYL",
+      "ratings": [
+        "A to 200",
+        "###",
+        "A to 300",
+        "A 25% ",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "DIPHENYL ETHER",
+      "ratings": [
+        "*A to 125",
+        "*A to 200",
+        "A to 200",
+        "*A to 125",
+        "###",
+        "*A to 70"
+      ]
+    },
+    {
+      "name": "DIPHENYL OXIDE",
+      "ratings": [
+        "A 75% ",
+        "###",
+        "A 75% ",
+        "A to 175"
+      ]
+    },
+    {
+      "name": "DIPROPYLENE GLYCOL",
+      "ratings": [
+        "A to 125",
+        "*A to  200\u00b0F",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "DIOCTYL PHTHALATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "DIOXANE",
+      "ratings": [
+        "A to 300",
+        "A to 214",
+        "A to 240",
+        "A to 214",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "DOW THERM",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "EPICHLOROHYDRAN DRY",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ETHANE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 480",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHANOLAMINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 200",
+        "NR at 200",
+        "NR at 70"
+      ]
+    },
+    {
+      "name": "ETHERS",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "A to 200",
+        "AB to 70"
+      ]
+    },
+    {
+      "name": "ETHYL",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ETHYL",
+      "ratings": [
+        "B",
+        "N",
+        "A",
+        "A to 125",
+        "*A to 200",
+        "A to 300",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHYL",
+      "ratings": [
+        "B",
+        "N",
+        "N",
+        "A to 125",
+        "*A to 200",
+        "A to 300",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHYL",
+      "ratings": [
+        "B",
+        "RA",
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "AB to 200"
+      ]
+    },
+    {
+      "name": "ETHYL ETHER",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 200",
+        "A to 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ETHYL SULPHATE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHYLENE",
+      "ratings": [
+        "BR",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHYLENE",
+      "ratings": [
+        "C",
+        "R",
+        "R",
+        "N ",
+        "A to 300",
+        "A to  200\u00b0F",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ETHYLENE",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ETHYLENE DIAMINE",
+      "ratings": [
+        "A to 242",
+        "A to 242",
+        "A to 300",
+        "A to 125",
+        "NR at 200",
+        "NR at 70"
+      ]
+    },
+    {
+      "name": "ETHYLENE DIBROMIDE",
+      "ratings": [
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ETHYLENE DICHLORIDE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A  ",
+        "A to 200",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "ETHYLENE GLYCOL ( DIHYDROXYETHANE)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ETHYLENE OXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 230",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "FATTY",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "FERRIC",
+      "ratings": [
+        "C",
+        "R",
+        "C",
+        "NC",
+        "N",
+        "RA",
+        "A to 300",
+        "A to 220",
+        "A to 300",
+        "A to 212"
+      ]
+    },
+    {
+      "name": "200\u00b0FFERRIC",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 220",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A"
+      ]
+    },
+    {
+      "name": "FERRIC",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 220",
+        "A to 300",
+        "A to 300",
+        "A to 200",
+        "A"
+      ]
+    },
+    {
+      "name": "FERRIC",
+      "ratings": [
+        "C",
+        "R",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "FERRIC",
+      "ratings": [
+        "C",
+        "R",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "FERRIC",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "FERRIC SULFATE",
+      "ratings": [
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "FERROUS",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "AB to 70"
+      ]
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "FLUOBORIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "FLUOSINC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 275",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "B to 125\u00b0F",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "FLUORINE GAS DRY 300\u00b0F",
+      "ratings": [
+        "NR  ",
+        "*NR  ",
+        "A/NR  ",
+        "NR  ",
+        "NR ",
+        "NR at 100"
+      ]
+    },
+    {
+      "name": "FLUORINE GAS WET",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "NR at 200",
+        "NR at 200",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "FORMALDEHYDE (FORMALIN)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 230",
+        "A to 200",
+        "A to 212"
+      ]
+    },
+    {
+      "name": "FORMIC",
+      "ratings": [
+        "AC",
+        "A to 212",
+        "A to 212",
+        "A to 300",
+        "A to 275",
+        "A to 37% "
+      ]
+    },
+    {
+      "name": "FREON DRY",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 230",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "FREON WET",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 230",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "FUEL OILS",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "FURAN",
+      "ratings": [
+        "A to 200",
+        "A to 212",
+        "A to 200",
+        "A to 200",
+        "A to 100",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "FURFURAL (FURFURALDEHYDE)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 212",
+        "A to 100",
+        "B to 70"
+      ]
+    },
+    {
+      "name": "FGALLIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "GAS",
+      "ratings": [
+        "NA",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 200",
+        "###"
+      ]
+    },
+    {
+      "name": "GASOLINE LEADED",
+      "ratings": [
+        "R",
+        "N",
+        "A to 300",
+        "A to ",
+        "A to boiling ",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "GASOLINE UNLEADED",
+      "ratings": [
+        "R",
+        "N",
+        "A to 300",
+        "A to ",
+        "A to boiling ",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "GELATINE",
+      "ratings": [
+        "A to 150",
+        "*A to 200",
+        "A to 480",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "GLUCOSE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "GLUE",
+      "ratings": [
+        "A to 150",
+        "*A to 200",
+        "A to 480",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "250\u00b0C",
+      "ratings": [
+        "A to 300",
+        "###",
+        "A to 212"
+      ]
+    },
+    {
+      "name": "A to 200\u00b0F",
+      "ratings": [
+        "A to 200",
+        "A to 300",
+        "A to 250",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "GLYCOL (ETHYLENE GLYCOL)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HELIUM",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 480",
+        "###",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "HEPTANE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HEXANE",
+      "ratings": [
+        "A to 300",
+        "A to boiling ",
+        "A to 480",
+        "A to 300",
+        "A to 230",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HEXANOL TERTIARY",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "HYDRAZINE",
+      "ratings": [
+        "A to boiling ",
+        "A to boiling ",
+        "A to boiling ",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "HYDRAULIC FLUID (PETROLEUM)",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HYDRAULIC FLUID (SYNTHETIC)",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HYDROBROMIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 50% ",
+        "A to 50% ",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "A conc.",
+        "A to 34% ",
+        "A 100% "
+      ]
+    },
+    {
+      "name": "A 20% to 352\u00b0F",
+      "ratings": [
+        "A conc. ",
+        "A to 100% ",
+        "A 100% "
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "A to 248",
+        "A to 248",
+        "A to 392",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "A to 248",
+        "A to 248",
+        "A to 392",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "A to 248",
+        "A to 248",
+        "A to 392",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "A to 248",
+        "A to 248",
+        "A to 392",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "A to 248",
+        "A to 248",
+        "A to 392",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "HYDROCHLORIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A conc. ",
+        "A to 36% ",
+        "A to 50% ",
+        "A conc. ",
+        "A to 50% ",
+        "A to 50%"
+      ]
+    },
+    {
+      "name": "HYDROCYANIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "HYDROFLUORIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 248",
+        "A to 248",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HYDROFLUORIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 248",
+        "A to 248",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "HYDROFLUORIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A to 50% ",
+        "A  ",
+        "A ",
+        "A to 70",
+        "A to 50% ",
+        "A to 50%"
+      ]
+    },
+    {
+      "name": "HYDROFLUOSILICIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "HYDROFLUOROSILICIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to  200\u00b0F",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "HYDROGEN GAS",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to  480\u00b0F",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "HYDROGEN",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "R",
+        "A  ",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "B to 70"
+      ]
+    },
+    {
+      "name": "HYDROGEN",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "*A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "HYDROGEN",
+      "ratings": [
+        "C",
+        "AN",
+        "A to 300",
+        "A to  200\u00b0F",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "HYDROGEN FLUORIDE",
+      "ratings": [
+        "AN",
+        "R",
+        "*A to 300",
+        "*A to 200",
+        "A to 300",
+        "*A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "ratings": [
+        "A 90% ",
+        "A 90% ",
+        "A to 480",
+        "A 40% "
+      ]
+    },
+    {
+      "name": "HYDROGEN SULFIDE DRY",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "HYDROGEN SULFIDE WET",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "HYPOCHLOROUS",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to  200\u00b0F",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "IODINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 340",
+        "A to 300",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "ISOBUTYL",
+      "ratings": [
+        "A",
+        "C",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 275",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "ISOOCTANE",
+      "ratings": [
+        "A to 300",
+        "A to 218",
+        "A to 300",
+        "A to 125",
+        "###",
+        "*A to 70"
+      ]
+    },
+    {
+      "name": "ISOPROPYL",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ISOPROPYL",
+      "ratings": [
+        "A",
+        "C",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 125",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "ISOPROPYL ETHER",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "JET FUEL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 230",
+        "A to 300",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "KEROSENE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 200",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "KEYTONES",
+      "ratings": [
+        "A to 300",
+        "A to 300",
+        "A to 400",
+        "A to 200",
+        "A to 200",
+        "AB to 100"
+      ]
+    },
+    {
+      "name": "LACTIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A 100% "
+      ]
+    },
+    {
+      "name": "LACQUERS & LACQUER SOLVENTS",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "LPG (PROPANE)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to  300\u00b0F",
+        "A to 275",
+        "A to 70",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "LARO",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LATEX",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LEAD",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "###",
+        "A hot"
+      ]
+    },
+    {
+      "name": "LEAD MOLTEN >400\u00b0F",
+      "ratings": [
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR"
+      ]
+    },
+    {
+      "name": "LEAD",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 125",
+        "*A to 200",
+        "A to 70",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LEAD SULFAMATE",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 70",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LIME SULFUR (CALCIUM SULFIDE)",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 250",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LINEOLOC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LINCEED OIL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "LITHIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 125",
+        "*A to 200",
+        "A to 480",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "LITHIUM HYDROXIDE",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "LUBRICATING OIL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to  400\u00b0F",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "A 50% to 250\u00b0F",
+      "ratings": [
+        "A to 50% ",
+        "A to 400",
+        "A to 100% "
+      ]
+    },
+    {
+      "name": "LIME (CALCIUM OXIDE)",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 300",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MAGNESIUM",
+      "ratings": [
+        "CARB",
+        "NA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MAGNESIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "MAGNESIUM",
+      "ratings": [
+        "B",
+        "A",
+        "A to 125",
+        "*A to 200",
+        "A to 70",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MAGNESIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MAGNESIUM SULPHATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to boiling"
+      ]
+    },
+    {
+      "name": "MALIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MALEIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MANGANESE",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "*A to 200",
+        "A to 480",
+        "###",
+        "###",
+        "A to 125"
+      ]
+    },
+    {
+      "name": "MANGANESE SULPHATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 480",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MERCURIC",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 275",
+        "###",
+        "A to 2% "
+      ]
+    },
+    {
+      "name": "MERCURIC",
+      "ratings": [
+        "C",
+        "AN",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MERCUROUS",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MERCURY",
+      "ratings": [
+        "A to 300",
+        "A to 300",
+        "A to 480",
+        "A to 275",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHANE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 250",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 70",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "AC",
+        "N",
+        "A to 70",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "A",
+        "C",
+        "AN",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 70",
+        "A to 122"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "A",
+        "N",
+        "*A to 200",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "BR",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "C",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHYL",
+      "ratings": [
+        "C",
+        "R",
+        "R",
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHYL ETHYL KEYTONE",
+      "ratings": [
+        "A to  300\u00b0F",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 100",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHYL ISOBUTYL KEYTONE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 100",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "METHYLENE",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 212",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MILK",
+      "ratings": [
+        "A to 212",
+        "A to 212",
+        "A to 212",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MINERAL OIL",
+      "ratings": [
+        "A to 356",
+        "A to 356",
+        "A to 480",
+        "A to 356",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "MIXED",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "MOLASSES",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MORPHOLINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 200",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "MOTOR OIL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 150",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "MUSTARD",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 480",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "MONOCHLOROBENZENE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 480",
+        "A to 300",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "MONOCHLORODIFLUOROMETHANE(F.22)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 200",
+        "A to 230",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "MONOETHANOLAMINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to  480\u00b0F",
+        "A to 150",
+        "NR at 200",
+        "NR at 70"
+      ]
+    },
+    {
+      "name": "MONOCHLOROACETIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A 50% ",
+        "A to 480",
+        "A to 150"
+      ]
+    },
+    {
+      "name": "212\u00b0FNAPHTHA",
+      "ratings": [
+        "A to 300",
+        "A to 212",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "NAPHTHALENE",
+      "ratings": [
+        "A to 424",
+        "A to 424",
+        "A to  424\u00b0F",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "NICKEL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A at 70"
+      ]
+    },
+    {
+      "name": "NICKEL",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "NICKEL SULFATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to boiling"
+      ]
+    },
+    {
+      "name": "NITRIC",
+      "ratings": [
+        "AC",
+        "A 100% ",
+        "A 90% "
+      ]
+    },
+    {
+      "name": "248\u00b0FNITRIC",
+      "ratings": [
+        "AC",
+        "N",
+        "A to 248",
+        "A to 248",
+        "A to 248",
+        "A to 70% ",
+        "AB 70% ",
+        "A to 248"
+      ]
+    },
+    {
+      "name": "NITRIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A 100% ",
+        "A 10% ",
+        "A 100% ",
+        "NR 70%"
+      ]
+    },
+    {
+      "name": "NITROBENZENE",
+      "ratings": [
+        "A to 410",
+        "A to 410",
+        "A  ",
+        "A to 300",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "NITROGEN",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "NITROMETHANE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to  400\u00b0F",
+        "A to 212",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "NITROUS",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "NITROUS OXIDE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "*A to 200",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "N-OCTANE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "OILS",
+      "ratings": [
+        "AN",
+        "A",
+        "A to boiling ",
+        "A to boiling ",
+        "A to boiling ",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "OILS",
+      "ratings": [
+        "CR",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 200",
+        "###"
+      ]
+    },
+    {
+      "name": "OILS MINERAL",
+      "ratings": [
+        "A to 354",
+        "A to 354",
+        "A to  354\u00b0F",
+        "A to 354",
+        "A to 300",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "OILS OLIVE",
+      "ratings": [
+        "A to boiling ",
+        "A to boiling ",
+        "A to boiling ",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "OILS VEGETABLE",
+      "ratings": [
+        "A to boiling ",
+        "A  ",
+        "A to boiling ",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "OLEIC",
+      "ratings": [
+        "AC",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "OXALIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 230",
+        "A to 70",
+        "A 50% "
+      ]
+    },
+    {
+      "name": "OXYGEN",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 350",
+        "A to 300",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "OZONE",
+      "ratings": [
+        "A to 125",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "PALMITIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PARAFFIN",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PENTANE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 350",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "PERCHLOROETHYLENE",
+      "ratings": [
+        "A to 250",
+        "A to 250",
+        "A to 275",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "PETROLEUM",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 200",
+        "###"
+      ]
+    },
+    {
+      "name": "PETROLEUM ETHER",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 100",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PHOSPHORIC",
+      "ratings": [
+        "AC",
+        "A",
+        "RA",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A conc. "
+      ]
+    },
+    {
+      "name": "PHOSPHORIC",
+      "ratings": [
+        "AC",
+        "A",
+        "R ",
+        "R",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A conc. "
+      ]
+    },
+    {
+      "name": "PHOSPHORIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A to 100",
+        "A to 100",
+        "A to 100",
+        "A to conc. ",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PHOSPHOROUS",
+      "ratings": [
+        "A to 200",
+        "A to  200\u00b0F",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PHOSPHOROUS TRICHLORIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 250",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "PHOSPHOROUS PENTACHLORIDE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PHENOL SULPHONIC",
+      "ratings": [
+        "AC",
+        "*A to 200",
+        "*A to 200",
+        "A to 70",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SOLUTIONS              (DEVELOPERS)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "A to 300\u00b0F",
+      "ratings": [
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 140"
+      ]
+    },
+    {
+      "name": "PHTHALIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PHTHALIC",
+      "ratings": [
+        "AN",
+        "R",
+        "A to 300",
+        "A to  200\u00b0F",
+        "A to 400",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PICRIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 125",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS",
+      "ratings": [
+        "BRA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS",
+      "ratings": [
+        "CA",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 175",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS",
+      "ratings": [
+        "C",
+        "R ",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 175",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS GOLD",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS LEAD",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10%  < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS",
+      "ratings": [
+        "N",
+        "C",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS SILVER",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS TIN",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PLATING SOLUTIONS ZINC",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 390",
+        "A to 390",
+        "A to 390",
+        "###",
+        "A sat'd.",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "A",
+        "N",
+        "A",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "B",
+        "CARB",
+        "NA",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 125"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "B",
+        "C",
+        "R",
+        "A",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "BR",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "CARB",
+        "NA",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "C",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 125"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A sat'd. "
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "C",
+        "AN",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM DICHROMATE",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM FERRICYANIDE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "*A to 200",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM FERROCYANIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM HYDRATE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 70",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM HYDROXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "POTASSIUM HYPOCHLORATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 275",
+        "###",
+        "A dil. "
+      ]
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 230",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "POTASSIUM OXALATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM PERMANGANATE",
+      "ratings": [
+        "A to 300",
+        "A to ",
+        "A to 300",
+        "A to 300",
+        "A 10% ",
+        "A conc. "
+      ]
+    },
+    {
+      "name": "POTASSIUM SILICIDE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "POTASSIUM SULFATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM SULFIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "POTASSIUM SULFITE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 212",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PROPANE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 275",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "PROPYL",
+      "ratings": [
+        "AC",
+        "A",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "PROPYL",
+      "ratings": [
+        "A",
+        "C",
+        "R",
+        "AN",
+        "A  ",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "PROPYLENE",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PROPYLENE",
+      "ratings": [
+        "C",
+        "R",
+        "R",
+        "N ",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PROPYLENE GLYCOL",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 300",
+        "A to 125",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "PROPYLENE OXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 150",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "PYRIDINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 240",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "PYROGALIC",
+      "ratings": [
+        "AC",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 150",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "PYROLIGNOUS",
+      "ratings": [
+        "AC",
+        "A to boiling ",
+        "A to  ",
+        "A to boiling ",
+        "A to 244"
+      ]
+    },
+    {
+      "name": "QUININE",
+      "ratings": [
+        "B",
+        "A",
+        "###",
+        "A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "RESORCINOL",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 300",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SALISYLIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 250",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "SALISCYLALDEHYDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "C",
+        "R",
+        "N ",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SEA WATER",
+      "ratings": [
+        "A to 250",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 250",
+        "A to 250"
+      ]
+    },
+    {
+      "name": "SEWAGE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SHELLAC",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "SILICON OIL",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "*A to 200",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SILVER",
+      "ratings": [
+        "BR",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SILVER",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SILVER",
+      "ratings": [
+        "C",
+        "AN",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SILVER",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SKYDROL 500 & 7000",
+      "ratings": [
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "SOAP SOLUTIONS",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "###",
+        "A to 200",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "AC",
+        "A",
+        "*A to 70",
+        "*A to 70",
+        "A to 70",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "A",
+        "NA",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "A",
+        "N",
+        "A",
+        "*A to 200",
+        "*A to 200",
+        "A to 70",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "B",
+        "N",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "B",
+        "CARB",
+        "NA",
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "B",
+        "C",
+        "R",
+        "A",
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "B",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 140"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "B",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "B",
+        "RA",
+        "B",
+        "RA",
+        "A to 300",
+        "A to 300",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "BR",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "CARB",
+        "NA",
+        "A ",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "C",
+        "RA",
+        "A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A "
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "C",
+        "R",
+        "A",
+        "A to 10% ",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "A to 10% ",
+        "A to 10% "
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "C",
+        "RA",
+        "*A to 200",
+        "*A to 200",
+        "*A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "C",
+        "AN",
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM DICHROMATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM FERRICYANIDE",
+      "ratings": [
+        "A to 300",
+        "*A to  200\u00b0F",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM FLUORIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM HYDROXIDE (CAUSTIC SODA)",
+      "ratings": [
+        "A to 300",
+        "A to 50% ",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SODIUM HYDROXIDE MOLTEN > 804\u00b0F",
+      "ratings": [
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR"
+      ]
+    },
+    {
+      "name": "SODIUM HYPOCHLORATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 200",
+        "A to 250"
+      ]
+    },
+    {
+      "name": "SODIUM HYPOSULFITE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM METAPHOSPHATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM METASILICATE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "N ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR"
+      ]
+    },
+    {
+      "name": "SODIUM",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SODIUM PERBORATE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM PEROXIDE",
+      "ratings": [
+        "A to 300",
+        "A to ",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM PHOSPHATES",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "A to 400\u00b0F",
+      "ratings": [
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SODIUM SULFATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SODIUM SULFIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "SODIUM SULFITE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "SODIUM THIOSULFATE (HYPO)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SODIUM TETRABORATE (BORAX)",
+      "ratings": [
+        "A to 300",
+        "A to 300",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SOYA",
+      "ratings": [
+        "B",
+        "AN ",
+        "A to 200",
+        "*A to 200",
+        "A to 250",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SIANNIC",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "###",
+        "A to boiling"
+      ]
+    },
+    {
+      "name": "SIANNOUS",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "STARCH",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "STEARIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "STODOARD SOLVENT",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "STYRENE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SUGAR JUICE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SULFATE LIQUOR",
+      "ratings": [
+        "B",
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SULFATE LIQUOR GREEN",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "*A to 200",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "SULFINOL",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A to 70\u00b0F",
+      "ratings": [
+        "*A to 200",
+        "A to 200",
+        "###",
+        "A to 70",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SULFOLANE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 70",
+        "A to 200",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "SULFUR",
+      "ratings": [
+        "A to molten ",
+        "A to molten ",
+        "A to 400",
+        "A to molten ",
+        "*A to molten ",
+        "A to molten"
+      ]
+    },
+    {
+      "name": "SULFUR MOLTEN 200\u00b0F",
+      "ratings": [
+        "A  ",
+        "A  ",
+        "A  ",
+        "*A  ",
+        "*A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "SULFUR",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 150",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SULFUR DIOXIDE GAS WET",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SULFUR DIOXIDE GAS DRY",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 300",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "SULFUR TRIOXIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "SULFURIC",
+      "ratings": [
+        "AC",
+        "A",
+        "R ",
+        "R",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% "
+      ]
+    },
+    {
+      "name": "SULFURIC",
+      "ratings": [
+        "AC",
+        "A",
+        "RA",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100 ",
+        "A to 100% ",
+        "A to 100% ",
+        "A to 100% "
+      ]
+    },
+    {
+      "name": "SULFURIC",
+      "ratings": [
+        "AC",
+        "B",
+        "N",
+        "A to 80",
+        "A to 80",
+        "A to 90",
+        "A to 65",
+        "A to 65",
+        "###"
+      ]
+    },
+    {
+      "name": "SULFURIC",
+      "ratings": [
+        "AC",
+        "N",
+        "A to 400",
+        "A to 400",
+        "A to 500",
+        "A to 300",
+        "A to 300",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "SULFUROUS",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 230",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TALL OIL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TALLOW",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TANIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TANNING LIQUOR (ALUM SOLUTION)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TAR",
+      "ratings": [
+        "AN",
+        "AR ",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "TARTARIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "A to 125"
+      ]
+    },
+    {
+      "name": "TETRACHLOROACETIC",
+      "ratings": [
+        "AC",
+        "A to 248",
+        "*A to 200",
+        "A to 200",
+        "A to 248",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TETRACHLOROETHANE",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TETRACHLOROETHYLENE",
+      "ratings": [
+        "A to 250",
+        "A to 250",
+        "A to 400",
+        "A to 200",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "TETRAETHYL LEAD",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TETRAHYDROFURAN",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 212",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "TETRAHYDRONAFTHALENE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TETRAPHOSPHORIC",
+      "ratings": [
+        "AC",
+        "A to 300",
+        "A to 430",
+        "A to 430",
+        "A to 248",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "THILNIL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TIN MOLTEN > 400\u00b0f",
+      "ratings": [
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR"
+      ]
+    },
+    {
+      "name": "TIN TETRACHLORIDE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 234",
+        "###",
+        "A to boiling"
+      ]
+    },
+    {
+      "name": "TITANIUM TETRACHLORIDE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 212",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TOLUENE (TOLUOL)",
+      "ratings": [
+        "A to 300",
+        "A to 230",
+        "A to 200",
+        "A to 250",
+        "A to 200",
+        "AB to 125"
+      ]
+    },
+    {
+      "name": "FTOMOTO JUICE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "A to 200",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "TRYBUTYL",
+      "ratings": [
+        "C",
+        "RA",
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TRYBUTYL PHOSPHATE",
+      "ratings": [
+        "A to 392",
+        "A to 392",
+        "A to 400",
+        "A to 150",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TRANSFORMER OIL",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "###",
+        "A to 70",
+        "###"
+      ]
+    },
+    {
+      "name": "TRCHLOROACETIC",
+      "ratings": [
+        "AC",
+        "A to 384",
+        "A to 384",
+        "A  ",
+        "A to 300",
+        "A to 100",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "TRICHLOROETHANE",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 150",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TRICHLOROETHYLENE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "TRICHLOROPROPANE",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 70",
+        "###",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TRICHLOROTRIFLUOROETHANE (F.113)",
+      "ratings": [
+        "A to 200",
+        "A to  200\u00b0F",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 100"
+      ]
+    },
+    {
+      "name": "TRICRESYL PHOSPHATE",
+      "ratings": [
+        "A to boiling ",
+        "A  ",
+        "A to boiling ",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TRIETHANOLAMINE",
+      "ratings": [
+        "A to 300",
+        "A to ",
+        "A to 400",
+        "A to 150",
+        "NR hot ",
+        "###"
+      ]
+    },
+    {
+      "name": "TRIETHYL",
+      "ratings": [
+        "A",
+        "N",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 230",
+        "NR hot ",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "TRIETHYLENE GLYCOL",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TRIETHYL PHOSPHATE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "TRIPHENYL PHOSPHATE",
+      "ratings": [
+        "A to 200",
+        "*A to 200",
+        "A to 200",
+        "A to 200",
+        "A to 100",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "TRIPROPYLENE GLYCOL",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "TRISODIUM PHOSPHATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 300",
+        "A to 200",
+        "A to 300"
+      ]
+    },
+    {
+      "name": "TURG OIL (CHINA WOOD OIL)",
+      "ratings": [
+        "A to 70",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "TURPENTINE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "UNDECYL",
+      "ratings": [
+        "A",
+        "C",
+        "N",
+        "CAN",
+        "A to 125",
+        "*A to 200",
+        "A to 125",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "UREA",
+      "ratings": [
+        "A to 300",
+        "A to 50% ",
+        "A to 400",
+        "A to 125"
+      ]
+    },
+    {
+      "name": "URIC",
+      "ratings": [
+        "AC",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "URINE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "*A to 200",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "VARNISH",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "*A to 200",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "VINEGAR",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "A to 200",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "VINYL",
+      "ratings": [
+        "AC",
+        "A",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 275",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "VINYL",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "*A to 200",
+        "A to 200",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "VINYLINDIN",
+      "ratings": [
+        "C",
+        "R",
+        "R",
+        "N",
+        "A to 125",
+        "A to 200",
+        "A to 400",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "WATER",
+      "ratings": [
+        "AC",
+        "N",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 212",
+        "A to 250",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "WATER",
+      "ratings": [
+        "B",
+        "R ",
+        "A to 212",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "###",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "WATER DISTILLED",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 212",
+        "A to 250",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "WATER FRESH",
+      "ratings": [
+        "A to 250",
+        "A to 200",
+        "A to 250",
+        "A to 300",
+        "A to 250",
+        "A to 250"
+      ]
+    },
+    {
+      "name": "WATER DEIONIZED",
+      "ratings": [
+        "A to 212",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "A to 250",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "WATER DEMINERALIZED",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A  ",
+        "A to 212",
+        "A to 250",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "WATER",
+      "ratings": [
+        "BRAC ",
+        "A to 212",
+        "A to 200",
+        "A to 200",
+        "A to 212",
+        "A to 250",
+        "A to 70"
+      ]
+    },
+    {
+      "name": "WATER SALT (SEE",
+      "ratings": [
+        "A",
+        "A ",
+        "A",
+        "R",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 250",
+        "A to 250",
+        "A to 250"
+      ]
+    },
+    {
+      "name": "WAX",
+      "ratings": [
+        "*A to molten ",
+        "*A to molten ",
+        "A to molten ",
+        "A to molten ",
+        "*A to molten ",
+        "*A to molten"
+      ]
+    },
+    {
+      "name": "WHISKY",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "###",
+        "###",
+        "A to boiling"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "WHITE LIQUOR, PULP MILL",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 400",
+        "*A to 200",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "WHITE SPIRIT",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "WINE",
+      "ratings": [
+        "A to 300",
+        "*A to 200",
+        "A to 300",
+        "*A to 200",
+        "###",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "WOOD PULP",
+      "ratings": [
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "XYLENE ( XYLOL XYLOLE)",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 250",
+        "A to 200",
+        "A to 200"
+      ]
+    },
+    {
+      "name": "ZINE",
+      "ratings": [
+        "CARB",
+        "NA",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ZINC",
+      "ratings": [
+        "C",
+        "R",
+        "A to 300",
+        "A 25% ",
+        "A to 400",
+        "A to 300",
+        "A 25% "
+      ]
+    },
+    {
+      "name": "ZINC",
+      "ratings": [
+        "C",
+        "AN",
+        "*A to 200",
+        "*A to 200",
+        "A to 200",
+        "###",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ZINC MOLTEN",
+      "ratings": [
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR  ",
+        "NR"
+      ]
+    },
+    {
+      "name": "ZINC",
+      "ratings": [
+        "N",
+        "RA",
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ZINC STEARATE",
+      "ratings": [
+        "A to 125",
+        "*A to 200",
+        "A to 200",
+        "A to 125",
+        "###",
+        "###"
+      ]
+    },
+    {
+      "name": "ZINC SULFATE",
+      "ratings": [
+        "A to 300",
+        "A to 200",
+        "A to 400",
+        "A to 300",
+        "###",
+        "A to boiling"
+      ]
+    },
+    {
+      "name": "ATMOSPHERE, INDUSTRIAL",
+      "ratings": [
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "ATMOSPHERE, MARINE",
+      "ratings": [
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "ATMOSPHERE,",
+      "ratings": [
+        "R",
+        "RA",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A  ",
+        "A"
+      ]
+    },
+    {
+      "name": "SUNLIGHT",
+      "ratings": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "name": "ULTRAVIOLET LIGHT",
+      "ratings": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "name": "A < 10% SWELLING. < 15% LOSS OF TENSILE STRENGTH. LITTLE OR",
+      "ratings": [
+        "N",
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "B < 15% SWELLING. < 30% LOSS OF TENSILE STRENGTH. MINOR",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "C < 20% SWELLING. < 50% LOSS OF TENSILE STRENGTH. MODERATE",
+      "ratings": [
+        "C",
+        "CA",
+        "A",
+        "AC"
+      ]
+    },
+    {
+      "name": "NR >20% SWELLING. > 50% LOSS OF TENSILE STRENGTH.",
+      "ratings": [
+        "A",
+        "AC",
+        "R "
+      ]
+    },
+    {
+      "name": "ACIDS",
+      "ratings": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "name": "ACIDS",
+      "ratings": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "name": "ALKALIS",
+      "ratings": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "name": "Du Pont",
+      "ratings": [
+        "C",
+        "C",
+        "A",
+        "N ",
+        "R",
+        "C",
+        "A",
+        "C",
+        "C",
+        "C",
+        "R"
+      ]
+    },
+    {
+      "name": "Allied",
+      "ratings": [
+        "C",
+        "C",
+        "A",
+        "C",
+        "C"
+      ]
+    }
+  ],
+  "properties": {
+    "density": "(gms/cubic",
+    "melting_point": "504-565\u00b0F 575-590\u00b0F 621\u00b0F 520\u00b0F 460-464\u00b0F 410-420\u00b0F",
+    "max_temp": "400\u00b0F",
+    "water_absorption": "0.01 0.03 0.01 0.01-0.02 0.01-0.10 2.0-0.0(in 24 hours) 0.03 (25% glass)",
+    "oxygen_index": "95 95 95 28-32 48-64 95"
+  }
+}

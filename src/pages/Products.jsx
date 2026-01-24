@@ -1,10 +1,12 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import products from '../data/products.json';
-import { Check, ArrowRight, Shield, Zap, Thermometer, Layers } from 'lucide-react';
+import { Check, ArrowRight, Shield, Zap, Thermometer, Layers, Info } from 'lucide-react';
 import { motion, useInView } from 'framer-motion';
 import { FadeIn } from '../components/animations/FadeIn';
 
 const ProductSection = ({ product, index, setActiveProduct }) => {
+  const navigate = useNavigate();
   const ref = useRef(null);
   const isInView = useInView(ref, { margin: "-50% 0px -50% 0px" });
 
@@ -46,7 +48,7 @@ const ProductSection = ({ product, index, setActiveProduct }) => {
           </ul>
         </div>
 
-        <div>
+        <div className="mb-8">
           <h3 className="text-sm font-bold text-slate-400 uppercase tracking-wider mb-4 flex items-center gap-2">
             <Layers className="w-4 h-4" /> Ideal Applications
           </h3>
@@ -58,6 +60,15 @@ const ProductSection = ({ product, index, setActiveProduct }) => {
             ))}
           </div>
         </div>
+
+        <button 
+          onClick={() => navigate(`/products/${product.id}`)}
+          className="group flex items-center gap-3 px-6 py-3 bg-slate-900 text-white rounded-full font-bold hover:bg-blue-600 transition-colors"
+        >
+          <Info className="w-5 h-5" />
+          <span>View Full Details</span>
+          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+        </button>
       </div>
     </div>
   );
@@ -116,6 +127,7 @@ const Products = () => {
                 src={product.image} 
                 alt={product.name} 
                 className="w-full h-full object-cover"
+                loading={index === 0 ? "eager" : "lazy"}
               />
 
               {/* Decorative Elements on Image */}

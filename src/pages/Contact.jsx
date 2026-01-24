@@ -6,6 +6,19 @@ import Button from '../components/ui/Button';
 import GradientText from '../components/ui/GradientText';
 
 const Contact = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const formData = new FormData(e.target);
+    const name = formData.get('name');
+    const email = formData.get('email');
+    const message = formData.get('message');
+    
+    const subject = encodeURIComponent('Contact Request from Website');
+    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`);
+    
+    window.location.href = `mailto:ft_coat@yahoo.com?subject=${subject}&body=${body}`;
+  };
+
   return (
     <div className="bg-slate-50 min-h-screen">
       {/* Hero Section */}
@@ -49,10 +62,11 @@ const Contact = () => {
                 <div className="ml-6">
                   <h3 className="text-xl font-bold text-slate-900">Our Location</h3>
                   <p className="mt-2 text-slate-600 leading-relaxed">
-                    Office and Works<br />
-                    Plot No. 89, Survey No. 66,<br />
-                    Village Valiv, Vasai (E),<br />
-                    Dist.: Thane - 401 208
+                    FLUORO TECH ENGINEERING WORKS<br />
+                    1st Floor, Survey No. 66. Plot No. 89,<br />
+                    Valiv Phata, Sativali Road<br />
+                    Opp. Jay Equipment Pvt. Ltd.<br />
+                    Vasai – E, Thane – 401 208
                   </p>
                 </div>
               </div>
@@ -66,10 +80,10 @@ const Contact = () => {
                 <div className="ml-6">
                   <h3 className="text-xl font-bold text-slate-900">Phone</h3>
                   <p className="mt-2 text-slate-600 font-medium text-lg">
-                    (0250) 2480202 / 2480220
+                    8149060220 / 8149160220 / 9137311899
                   </p>
                   <p className="mt-1 text-slate-600 font-medium text-lg">
-                    9820326754 / 9820643819
+                    Contact Person: 898 3351 989
                   </p>
                 </div>
               </div>
@@ -83,10 +97,33 @@ const Contact = () => {
                 <div className="ml-6">
                   <h3 className="text-xl font-bold text-slate-900">Email</h3>
                   <p className="mt-2 text-slate-600 font-medium text-lg">
-                    ft_coat@yahoo.com
+                    <a href="mailto:ft_coat@yahoo.com" className="text-blue-600 hover:text-blue-700 transition-colors">
+                      ft_coat@yahoo.com
+                    </a>
+                    <br />
+                    <a href="mailto:fluorocoat@gmail.com" className="text-blue-600 hover:text-blue-700 transition-colors">
+                      fluorocoat@gmail.com
+                    </a>
                   </p>
                   <p className="text-slate-500 text-sm mt-1">
                     We'll respond within 24 hours
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex items-start group">
+                <div className="flex-shrink-0">
+                  <div className="flex items-center justify-center h-14 w-14 rounded-2xl bg-blue-100 text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-colors duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-7 w-7"><rect width="20" height="14" x="2" y="3" rx="2"/><line x1="8" x2="16" y1="21" y2="21"/><line x1="12" x2="12" y1="17" y2="21"/></svg>
+                  </div>
+                </div>
+                <div className="ml-6">
+                  <h3 className="text-xl font-bold text-slate-900">Business Details</h3>
+                  <p className="mt-2 text-slate-600 font-medium">
+                    GSTIN : 27AABFF2723J1ZL
+                  </p>
+                  <p className="mt-1 text-slate-600 font-medium">
+                    PAN : AABFF2723J
                   </p>
                 </div>
               </div>
@@ -123,9 +160,7 @@ const Contact = () => {
             <h2 className="text-3xl font-bold text-slate-900 mb-8">Send us a Message</h2>
             <form 
               className="space-y-6" 
-              action="mailto:ft_coat@yahoo.com" 
-              method="post" 
-              encType="text/plain"
+              onSubmit={handleSubmit}
             >
               <div>
                 <label htmlFor="name" className="block text-sm font-semibold text-slate-700 mb-1">

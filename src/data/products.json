@@ -15,7 +15,13 @@
       "Cleanroom exhaust systems",
       "Protective linings"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Industrial%20chemical%20storage%20tanks%20with%20smooth%20protective%20coating%2C%20clean%20factory%20environment%2C%20high%20resolution&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Industrial%20chemical%20storage%20tanks%20with%20smooth%20protective%20coating%2C%20clean%20factory%20environment%2C%20high%20resolution&image_size=landscape_16_9",
+    "details": {
+      "density": "1.68-1.69",
+      "melting_point": "460-464\u00b0F",
+      "max_use_temp": "300\u00b0F",
+      "chemical_resistance_id": 4
+    }
   },
   {
     "id": "antistatic-halar",
@@ -33,16 +39,22 @@
       "Powder coating systems",
       "Electronic component handling"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Antistatic%20industrial%20coating%20application%20in%20hazardous%20area%2C%20safety%20equipment%2C%20technical%20visualization&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Antistatic%20industrial%20coating%20application%20in%20hazardous%20area%2C%20safety%20equipment%2C%20technical%20visualization&image_size=landscape_16_9",
+    "details": {
+      "density": "1.68-1.69",
+      "melting_point": "460-464\u00b0F",
+      "max_use_temp": "300\u00b0F",
+      "chemical_resistance_id": 4
+    }
   },
   {
     "id": "ptfe",
     "name": "PTFE",
-    "description": "Products made with DuPont™ Teflon® PTFE (polytetrafluoroethylene) fluoropolymer resins have exceptional resistance to high temperatures, chemical reaction, corrosion, and stress-cracking.",
+    "description": "Products made with DuPont\u2122 Teflon\u00ae PTFE (polytetrafluoroethylene) fluoropolymer resins have exceptional resistance to high temperatures, chemical reaction, corrosion, and stress-cracking.",
     "features": [
       "Lowest coefficient of friction",
       "Extreme chemical inertness",
-      "High temperature resistance (up to 260°C)",
+      "High temperature resistance (up to 260\u00b0C)",
       "Excellent non-stick properties"
     ],
     "applications": [
@@ -51,12 +63,18 @@
       "High-performance seals",
       "Electrical insulation"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Close%20up%20of%20PTFE%20coated%20industrial%20valves%20and%20seals%2C%20white%20clean%20material%2C%20engineering%20focus&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Close%20up%20of%20PTFE%20coated%20industrial%20valves%20and%20seals%2C%20white%20clean%20material%2C%20engineering%20focus&image_size=landscape_16_9",
+    "details": {
+      "density": "2.13-2.20",
+      "melting_point": "621\u00b0F",
+      "max_use_temp": "500\u00b0F",
+      "chemical_resistance_id": 2
+    }
   },
   {
     "id": "tefzel-etfe",
     "name": "Tefzel (ETFE)",
-    "description": "DuPont™ Tefzel® is a modified ETFE (ethylene-tetrafluoroethylene) fluoropolymer. Tefzel combines superior mechanical toughness with outstanding chemical inertness and near-universal chemical resistance.",
+    "description": "DuPont\u2122 Tefzel\u00ae is a modified ETFE (ethylene-tetrafluoroethylene) fluoropolymer. Tefzel combines superior mechanical toughness with outstanding chemical inertness and near-universal chemical resistance.",
     "features": [
       "Superior mechanical toughness",
       "High abrasion resistance",
@@ -69,12 +87,18 @@
       "Chemical processing pumps",
       "Architectural structures"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Industrial%20cables%20and%20wires%20with%20tough%20ETFE%20insulation%2C%20high%20tech%20manufacturing%20background&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Industrial%20cables%20and%20wires%20with%20tough%20ETFE%20insulation%2C%20high%20tech%20manufacturing%20background&image_size=landscape_16_9",
+    "details": {
+      "density": "1.7",
+      "melting_point": "520\u00b0F",
+      "max_use_temp": "300-350\u00b0F",
+      "chemical_resistance_id": 3
+    }
   },
   {
     "id": "teflon-pfa",
     "name": "Teflon PFA",
-    "description": "Teflon™ PFA (perfluoroalkoxy) offers the processing ease of conventional thermoplastics with properties similar to PTFE. It is ideal for pharmaceutical and biopharmaceutical facilities that require flexibility to produce multiple products.",
+    "description": "Teflon\u2122 PFA (perfluoroalkoxy) offers the processing ease of conventional thermoplastics with properties similar to PTFE. It is ideal for pharmaceutical and biopharmaceutical facilities that require flexibility to produce multiple products.",
     "features": [
       "Melt-processable fluoropolymer",
       "High purity levels",
@@ -87,7 +111,13 @@
       "High-purity chemical storage",
       "Heat exchangers"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Pharmaceutical%20stainless%20steel%20vessels%20in%20clean%20room%2C%20high%20purity%20processing%2C%20sterile%20environment&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Pharmaceutical%20stainless%20steel%20vessels%20in%20clean%20room%2C%20high%20purity%20processing%2C%20sterile%20environment&image_size=landscape_16_9",
+    "details": {
+      "density": "2.12-2.17",
+      "melting_point": "575-590\u00b0F",
+      "max_use_temp": "500\u00b0F",
+      "chemical_resistance_id": 1
+    }
   },
   {
     "id": "pvdf",
@@ -105,12 +135,18 @@
       "Battery components",
       "Architectural coatings"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=PVDF%20piping%20systems%20for%20water%20treatment%2C%20industrial%20complex%2C%20blue%20sky%20background&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=PVDF%20piping%20systems%20for%20water%20treatment%2C%20industrial%20complex%2C%20blue%20sky%20background&image_size=landscape_16_9",
+    "details": {
+      "density": "2.11-2.15",
+      "melting_point": "410-420\u00b0F",
+      "max_use_temp": "390-400\u00b0F",
+      "chemical_resistance_id": 5
+    }
   },
   {
     "id": "fluon-etfe",
     "name": "Fluon ETFE",
-    "description": "Products made with Fluon® ETFE fluoropolymer resins have exceptional resistance to heat and chemicals, along with superior electrical insulation properties. It is a tough, durable material suitable for demanding environments.",
+    "description": "Products made with Fluon\u00ae ETFE fluoropolymer resins have exceptional resistance to heat and chemicals, along with superior electrical insulation properties. It is a tough, durable material suitable for demanding environments.",
     "features": [
       "High heat resistance",
       "Superior electrical insulation",
@@ -123,6 +159,12 @@
       "Wire coatings",
       "Chemical linings"
     ],
-    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Architectural%20ETFE%20film%20structure%20modern%20stadium%20roof%20or%20greenhouse%2C%20sunlight%2C%20futuristic&image_size=landscape_16_9"
+    "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Architectural%20ETFE%20film%20structure%20modern%20stadium%20roof%20or%20greenhouse%2C%20sunlight%2C%20futuristic&image_size=landscape_16_9",
+    "details": {
+      "density": "1.7",
+      "melting_point": "520\u00b0F",
+      "max_use_temp": "300-350\u00b0F",
+      "chemical_resistance_id": 3
+    }
   }
 ]

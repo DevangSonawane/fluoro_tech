@@ -38,22 +38,33 @@ const Footer = () => {
               <li className="flex items-start gap-3 text-slate-300">
                 <MapPin className="h-6 w-6 text-blue-500 flex-shrink-0 mt-0.5" />
                 <span className="leading-relaxed">
-                  Plot No. 89, Survey No. 66,<br />
-                  Village Valiv, Vasai (E),<br />
-                  Dist.: Thane - 401 208
+                  FLUORO TECH ENGINEERING WORKS<br />
+                  1st Floor, Survey No. 66. Plot No. 89,<br />
+                  Valiv Phata, Sativali Road<br />
+                  Opp. Jay Equipment Pvt. Ltd.<br />
+                  Vasai – E, Thane – 401 208
                 </span>
               </li>
               <li className="flex items-center gap-3 text-slate-300">
                 <Phone className="h-5 w-5 text-blue-500 flex-shrink-0" />
-                <span>(0250) 2480202 / 2480220</span>
+                <span>8149060220 / 8149160220</span>
               </li>
               <li className="flex items-center gap-3 text-slate-300">
                 <Phone className="h-5 w-5 text-blue-500 flex-shrink-0" />
-                <span>9820326754 / 9820643819</span>
+                <span>9137311899 / 898 3351 989</span>
               </li>
-              <li className="flex items-center gap-3 text-slate-300">
-                <Mail className="h-5 w-5 text-blue-500 flex-shrink-0" />
-                <span>ft_coat@yahoo.com</span>
+              <li className="flex items-start gap-3 text-slate-300">
+                <Mail className="h-5 w-5 text-blue-500 flex-shrink-0 mt-1" />
+                <div className="flex flex-col">
+                  <a href="mailto:ft_coat@yahoo.com" className="hover:text-white transition-colors">ft_coat@yahoo.com</a>
+                  <a href="mailto:fluorocoat@gmail.com" className="hover:text-white transition-colors">fluorocoat@gmail.com</a>
+                </div>
+              </li>
+              <li className="flex items-start gap-3 text-slate-300 pt-2 border-t border-slate-800 mt-2">
+                <div className="flex flex-col text-sm text-slate-400">
+                  <span>GSTIN : 27AABFF2723J1ZL</span>
+                  <span>PAN : AABFF2723J</span>
+                </div>
               </li>
             </ul>
           </div>
