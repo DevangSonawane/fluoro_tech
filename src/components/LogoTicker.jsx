@@ -1,23 +1,25 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-const clients = [
-  { name: 'Cipla', domain: 'cipla.com' },
-  { name: 'Dr. Reddy\'s', domain: 'drreddys.com' },
-  { name: 'Sun Pharma', domain: 'sunpharma.com' },
-  { name: 'Lupin', domain: 'lupin.com' },
-  { name: 'Biocon', domain: 'biocon.com' },
-  { name: 'GSK', domain: 'gsk.com' },
-  { name: 'L&T', domain: 'larsentoubro.com' },
-  { name: 'UPL', domain: 'upl-ltd.com' },
-  { name: 'Alembic', domain: 'alembicpharmaceuticals.com' },
-  { name: 'IPCA', domain: 'ipca.com' },
-  { name: 'Atul', domain: 'atul.co.in' },
-  { name: 'Deepak Nitrite', domain: 'godeepak.com' },
+const partners = [
+  { src: '/partners/partner_1.jpeg', alt: 'Partner 1' },
+  { src: '/partners/partner_2.png', alt: 'Partner 2' },
+  { src: '/partners/partner_3.jpeg', alt: 'Partner 3' },
+  { src: '/partners/partner_4.png', alt: 'Partner 4' },
+  { src: '/partners/partner_5.jpeg', alt: 'Partner 5' },
+  { src: '/partners/partner_6.png', alt: 'Partner 6' },
+  { src: '/partners/partner_7.jpeg', alt: 'Partner 7' },
+  { src: '/partners/partner_8.png', alt: 'Partner 8' },
+  { src: '/partners/partner_9.jpeg', alt: 'Partner 9' },
+  { src: '/partners/partner_10.png', alt: 'Partner 10' },
+  { src: '/partners/partner_11.png', alt: 'Partner 11' },
+  { src: '/partners/partner_12.png', alt: 'Partner 12' },
+  { src: '/partners/partner_13.jpeg', alt: 'Partner 13' },
+  { src: '/partners/partner_14.png', alt: 'Partner 14' },
 ];
 
 // Duplicate the list to create a seamless loop
-const tickerClients = [...clients, ...clients];
+const tickerPartners = [...partners, ...partners];
 
 const LogoTicker = () => {
   return (
@@ -42,19 +44,15 @@ const LogoTicker = () => {
           }}
           style={{ width: "max-content" }}
         >
-          {tickerClients.map((client, index) => (
+          {tickerPartners.map((partner, index) => (
             <div
-              key={`${client.name}-${index}`}
+              key={`${partner.src}-${index}`}
               className="flex-shrink-0 flex flex-col items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100"
             >
               <img
-                src={`https://logo.clearbit.com/${client.domain}?size=128`}
-                alt={`${client.name} Logo`}
-                className="h-16 w-auto object-contain max-w-[180px]"
-                onError={(e) => {
-                  e.target.onerror = null; 
-                  e.target.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(client.name)}&background=random&color=fff&size=128`;
-                }}
+                src={partner.src}
+                alt={partner.alt}
+                className="h-20 w-auto object-contain max-w-[180px]"
               />
             </div>
           ))}
