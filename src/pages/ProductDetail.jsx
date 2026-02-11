@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { useParams, Link, useNavigate } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import { List } from 'react-window';
 import { AutoSizer } from 'react-virtualized-auto-sizer';
 import { 
@@ -17,6 +17,7 @@ import {
 import products from '../data/products.json';
 import chemicalData from '../data/chemical_resistance_full.json';
 import { FadeIn } from '../components/animations/FadeIn';
+import ProductMarqueeBanner from '../components/ProductMarqueeBanner';
 
 const getRatingColor = (rating) => {
     if (!rating || typeof rating !== 'string') return 'text-gray-400';
@@ -73,7 +74,6 @@ const Row = (props) => {
 
 const ProductDetail = () => {
   const { id } = useParams();
-  const navigate = useNavigate();
   const [searchTerm, setSearchTerm] = useState('');
 
   const product = products.find(p => p.id === id);
@@ -121,16 +121,12 @@ const ProductDetail = () => {
   return (
     <div className="bg-slate-50 min-h-screen pt-24 pb-20">
       <div className="max-w-7xl mx-auto px-6">
-        {/* Navigation */}
-        <button 
-          onClick={() => navigate('/products')}
-          className="mb-8 group flex items-center gap-2 text-slate-500 hover:text-slate-900 transition-colors"
-        >
-          <div className="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center group-hover:border-blue-400 transition-colors shadow-sm">
-            <ArrowLeft className="w-5 h-5" />
-          </div>
-          <span className="font-medium">Back to Products</span>
-        </button>
+        
+
+        {/* Hero Banner */}
+        <FadeIn>
+          <ProductMarqueeBanner productId={product.id} productName={product.name} fallback={product.image} />
+        </FadeIn>
 
         {/* Header Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-24 mb-20">
@@ -206,6 +202,8 @@ const ProductDetail = () => {
             </div>
           </FadeIn>
         </div>
+
+        
 
         {/* Chemical Resistance Section */}
         {resistanceId !== undefined && resistanceId !== null && (
