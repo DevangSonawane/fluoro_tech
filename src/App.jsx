@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, useLocation, Navigate } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Layout from './components/Layout';
 import { SmoothScroll } from './components/SmoothScroll';
@@ -18,6 +18,8 @@ const TechnicalData = lazy(() => import('./pages/TechnicalData'));
 const Clients = lazy(() => import('./pages/Clients'));
 const Contact = lazy(() => import('./pages/Contact'));
 const ProductDetail = lazy(() => import('./pages/ProductDetail'));
+const FluoropolymerGuide = lazy(() => import('./pages/FluoropolymerGuide'));
+const ChemicalProcessing = lazy(() => import('./pages/industries/ChemicalProcessing'));
 
 const AnimatedRoutes = () => {
   const location = useLocation();
@@ -29,6 +31,13 @@ const AnimatedRoutes = () => {
         <Route path="/about" element={<PageTransition><About /></PageTransition>} />
         <Route path="/products" element={<PageTransition><Products /></PageTransition>} />
         <Route path="/products/:id" element={<PageTransition><ProductDetail /></PageTransition>} />
+        <Route path="/fluoropolymer-coating-selection-guide" element={<PageTransition><FluoropolymerGuide /></PageTransition>} />
+        <Route path="/ptfe" element={<Navigate to="/products/ptfe" replace />} />
+        <Route path="/pfa" element={<Navigate to="/products/teflon-pfa" replace />} />
+        <Route path="/pvdf" element={<Navigate to="/products/pvdf" replace />} />
+        <Route path="/halar-ectfe" element={<Navigate to="/products/halar-ectfe" replace />} />
+        <Route path="/etfe" element={<Navigate to="/products/tefzel-etfe" replace />} />
+        <Route path="/industries/chemical-processing" element={<PageTransition><ChemicalProcessing /></PageTransition>} />
         <Route path="/technical-data" element={<PageTransition><TechnicalData /></PageTransition>} />
         <Route path="/clients" element={<PageTransition><Clients /></PageTransition>} />
         <Route path="/contact" element={<PageTransition><Contact /></PageTransition>} />
